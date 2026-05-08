@@ -1,0 +1,12 @@
+role: Founder Operator
+owner: Craig Hewitt
+mission: Own strategy, client relationship, taste, and final approval.
+responsibilities:
+  - approve client-facing assets
+  - select concepts to test
+  - make final recommendations
+  - manage client relationship
+blocked_actions:
+  - none
+approval_required: false
+

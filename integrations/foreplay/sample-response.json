@@ -1,0 +1,15 @@
+{
+  "source": "foreplay",
+  "brand": "Example Brand",
+  "domain": "example.com",
+  "channel": "meta",
+  "status": "active",
+  "format": "video",
+  "creative_url": "https://example.com/creative.mp4",
+  "primary_text": "Example ad copy.",
+  "headline": "Example headline",
+  "cta": "Learn More",
+  "landing_page_url": "https://example.com/landing-page",
+  "transcript": "Example transcript."
+}
+

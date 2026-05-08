@@ -1,0 +1,9 @@
+approvals_required_before:
+  - sending_client_communication
+  - publishing_ads
+  - changing_ad_budget
+  - claiming_performance_causality
+  - using_testimonials
+  - using_customer_logos
+  - making_comparative_competitor_claims
+

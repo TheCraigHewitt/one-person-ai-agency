@@ -1,0 +1,10 @@
+budgets:
+  research:
+    max_foreplay_queries_per_client: 50
+    max_live_web_queries_per_client: 25
+  generation:
+    max_concept_rounds: 3
+    max_report_rounds: 2
+  review:
+    human_review_required: true
+

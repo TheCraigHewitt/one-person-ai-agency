@@ -1,0 +1,16 @@
+goals:
+  - id: client-packet
+    name: Create a complete client packet from structured intake
+    outputs:
+      - icp-brief
+      - competitor-analysis
+      - ad-concept-set
+      - landing-page-copy
+      - weekly-report
+  - id: ad-concepts
+    name: Produce 5 usable Meta ad concepts
+    quality_bar: Each concept has a hook, visual direction, offer angle, CTA, caveat, and landing page alignment.
+  - id: claims-discipline
+    name: Keep unsupported claims out of client-facing assets
+    quality_bar: No invented performance, testimonials, logos, customer quotes, or causal claims.
+

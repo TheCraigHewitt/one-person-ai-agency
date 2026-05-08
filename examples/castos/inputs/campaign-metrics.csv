@@ -1,0 +1,6 @@
+week,campaign,ad_set,ad,spend,impressions,clicks,ctr,cpc,leads,cpl,notes
+2026-05-01,Podcast Hosting Test,Brands,WordPress Control,250,18000,216,0.012,1.16,14,17.86,Sample data for demo
+2026-05-01,Podcast Hosting Test,Agencies,Client Podcast Workflow,250,15000,195,0.013,1.28,11,22.73,Sample data for demo
+2026-05-01,Private Podcasting Test,Courses,Private Audio Course,200,11000,165,0.015,1.21,16,12.50,Sample data for demo
+2026-05-01,Private Podcasting Test,Teams,Internal Training Audio,200,9500,114,0.012,1.75,7,28.57,Sample data for demo
+
